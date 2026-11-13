@@ -13,7 +13,7 @@
 | **Date** | 13 November 2026 |
 | **Modules Completed** | • `W2-PM1` (Multiple Kali Tools)<br>• `W2-PM5` (Zenmap Scanning) |
 | **Client / Target** | 1. `networkwalks.com` *(secured written permission)*<br>2. Local LAN Virtual Network (`10.0.0.0/24`) |
-| **Authorization Status** | ✅ Yes (Written permission secured) |
+| **Authorization Status** | ✅ Yes |
 | **Phases Covered** | • **Phase 1:** Reconnaissance & Footprinting<br>• **Phase 2:** Scanning & Network Discovery<br>• **Phases 3–5:** In Progress |
 
 ---
@@ -130,13 +130,36 @@ During Week 2 of the Cybersecurity & Ethical Hacking internship, practical exerc
 
 > *Tip: Upload your screenshot files into an `evidence/` folder in your GitHub repository to render them directly below.*
 
+<img width="1919" height="1079" alt="Whois" src="https://github.com/user-attachments/assets/98745244-b292-498b-aeda-6ec6a73ede49" />
+
 * **Figure 1:** WHOIS domain registration and name server lookup (`evidence/whois.png`)
+
+<img width="1919" height="398" alt="Whatweb" src="https://github.com/user-attachments/assets/40ba903c-a6ac-418c-9287-14998dd9c150" />
+ 
 * **Figure 2:** WhatWeb web technology and CMS fingerprinting output (`evidence/whatweb.png`)
+
+<img width="1919" height="1079" alt="nslookup" src="https://github.com/user-attachments/assets/4ea333c7-e439-4146-aa9b-bba91f5326fd" />
+
 * **Figure 3:** Nslookup DNS resolution identifying `192.232.216.135` (`evidence/nslookup.png`)
+
+<img width="1919" height="1079" alt="Curl -I" src="https://github.com/user-attachments/assets/f990aad8-78ee-4ac2-82b8-bb77dfbadf17" />
+
 * **Figure 4:** HTTP response header inspection via `curl -I` (`evidence/curl.png`)
+
+<img width="1919" height="1079" alt="Wafwoof" src="https://github.com/user-attachments/assets/2b9d0434-8232-4c5f-9ad5-4c1c3c1b2c0c" />
+
 * **Figure 5:** Wafw00f detection identifying ModSecurity WAF (`evidence/wafw00f.png`)
+
+<img width="1919" height="1079" alt="dnsrecon" src="https://github.com/user-attachments/assets/26720bb0-d1d3-4e39-8294-b4f92fdb8370" />
+
 * **Figure 6:** DNSRecon enumeration of `SOA`, `NS`, `MX`, `A`, and `SRV` records (`evidence/dnsrecon.png`)
+
+<img width="1919" height="1079" alt="Ping Scan" src="https://github.com/user-attachments/assets/a485d567-c318-4279-a781-86273a8eb332" />
+
 * **Figure 7:** Zenmap Ping Scan (`nmap -sn 10.0.0.0/24`) results (`evidence/zenmap-ping.png`)
+
+<img width="1919" height="1079" alt="Nmap Topology" src="https://github.com/user-attachments/assets/86d8e106-35eb-45b8-ab6b-03cb02bd5f18" />
+
 * **Figure 8:** Zenmap radial network topology visualization (`evidence/zenmap-topology.png`)
 
 ---
@@ -145,4 +168,4 @@ During Week 2 of the Cybersecurity & Ethical Hacking internship, practical exerc
 
 * **Author:** Tebogo Mokone
 * **LinkedIn:** [linkedin.com/in/tebogo-mokone-ba2b35261](https://www.linkedin.com/in/tebogo-mokone-ba2b35261/)
-* **Program:** Cybersecurity Internship at Networkwalks | **Week:** 02 | **Batch:** B084
+* **Program:** Cybersecurity Internship at Networkwalks | **Week:** 02 | **Batch:** B084 | **Repository:** GitHub
